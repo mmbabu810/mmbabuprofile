@@ -1,2 +1,1 @@
-<img width="413" height="531" alt="babuprofile" src="https://github.com/user-attachments/assets/ed33913d-13e3-41b4-b052-002e8b941632" />
 I am the Assistant Professor in Computer Science With more than 22 years of professional experience, including 14+ years as a Computer Science Lecturer, 4+ years as a .NET Software Engineer, and 4+ years as a .NET Trainer, I am confident that I can make a valuable contribution to your academic team.
